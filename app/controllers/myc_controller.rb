@@ -1,0 +1,2 @@
+class MycController < ApplicationController
+end
